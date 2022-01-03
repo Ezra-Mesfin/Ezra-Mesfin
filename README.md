@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ezra-Mesfin
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Everything
+- 💞️ I’m looking to collaborate on data related projects using SQL & R
 
 
 <!---
